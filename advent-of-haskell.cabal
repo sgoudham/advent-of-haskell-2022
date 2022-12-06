@@ -91,5 +91,6 @@ library solutions
     , base        ^>=4.16.3.0
     , containers  ^>=0.6.5
     , text        ^>=2.0
+    , split       ^>=0.2.3
 
   hs-source-dirs:  solutions
